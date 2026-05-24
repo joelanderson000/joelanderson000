@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 ## Software Developer and Electrical Engineer
 
-![GitHub stats](./profile/stats.svg)
+![GitHub Stats](./profile/stats.svg)
+
+![GitHub Top Languages](./profile/top-languages.svg)
