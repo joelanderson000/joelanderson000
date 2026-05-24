@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 ## Software Developer and Electrical Engineer
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=joelanderson000&show_icons=true&show_icons=true&bg_color=050F2C&icon_color=2DDE98&title_color=00AEFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joelanderson000&layout=compact&langs_count=10&bg_color=050F2C&icon_color=2DDE98&title_color=00AEFF&text_color=FFFFFF)](https://github.com/aliciapaz)
+[![GitHub stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
