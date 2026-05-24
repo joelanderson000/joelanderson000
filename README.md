@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ## Software Developer and Electrical Engineer
 
-[![GitHub stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](./profile/stats.svg)
